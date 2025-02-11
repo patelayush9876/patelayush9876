@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=patelayush9876&label=Profile%20views&color=0e75b6&style=flat" alt="patelayush9876" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=patelayush9876" alt="patelayush9876" /></a> </p>
-
 - 🔭 I’m currently working on [Android/Web Application for Indian Army](N/A)
 
 - 🌱 I’m currently learning **Android Development**
+
+- 🔭 Recent Project [Laundry_solutions Android App](https://github.com/patelayush9876/Laundry_app)
 
 - 👨‍💻 All of my projects are available at [https://ayush-me.vercel.app/](https://ayush-me.vercel.app/)
 
@@ -32,5 +32,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=patelayush9876&show_icons=true&locale=en&layout=compact" alt="patelayush9876" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=patelayush9876&show_icons=true&locale=en" alt="patelayush9876" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=patelayush9876&" alt="patelayush9876" /></p>
