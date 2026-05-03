@@ -20,16 +20,16 @@
 React.js, Angular, TypeScript, JavaScript, HTML, CSS, TailwindCSS  
 
 **Backend:**  
-Node.js, Express.js  
+Node.js, Express.js, Nest.js  
 
 **Database:**  
-MongoDB, MySQL  
+MongoDB, MySQL, PostgreSQL  
 
 **DevOps & Tools:**  
-Docker (basic), CI/CD, Git, Linux, Postman  
+Docker (basic), CI/CD, Git, Linux, Postman, jesst, swagger  
 
 **Web3:**  
-Smart Contracts (Solidity - basics), dApp Development (learning phase)  
+Smart Contracts, dApp Development (learning phase)  
 
 **Languages:**  
 Java, Python, JavaScript, TypeScript  
