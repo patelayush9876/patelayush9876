@@ -9,7 +9,7 @@
 - 🌱 **DevOps, CI/CD, Cloud & Web3 ecosystems**  
 - 💡 Focused on **high-performance, production-ready systems**  
 - 👨‍💻 Portfolio: https://ayush-me.vercel.app/  
-- 📫 Reach me at: **patelayush7007@gmail.com**  
+- 📫 Reach me at: **hello.ayushpatel@gmail.com**  
 - 📄 Experience: https://drive.google.com/file/d/1Pgii3nefQIwUoKYvLaKGZN_Y38k92xaU/view  
 
 ---
@@ -26,7 +26,7 @@ Node.js, Express.js, Nest.js
 MongoDB, MySQL, PostgreSQL  
 
 **DevOps & Tools:**  
-Docker (basic), CI/CD, Git, Linux, Postman, jesst, swagger  
+AWS, GCP, Docker (basic), CI/CD, Git, Linux, Postman, jesst, swagger  
 
 **Web3:**  
 Smart Contracts, dApp Development (learning phase)  
